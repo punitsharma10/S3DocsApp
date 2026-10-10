@@ -1,0 +1,1 @@
+CREATE DATABASE docsapp_test;
